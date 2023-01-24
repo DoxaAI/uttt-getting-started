@@ -1,0 +1,4 @@
+competition: uttt
+environment: cpu
+language: python
+entrypoint: main.py
